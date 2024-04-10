@@ -10,7 +10,7 @@
 
   What the text editor looks like when it's been downlaoded
 
-  ![The deployed PWA](./Assets/Screenshot%202024-04-10%20at%2011.23.16 AM.png)
+  ![The deployed PWA](./assets/Screenshot%202024-04-10%20at%2011.23.16 AM.png)
   
   
   ## Table of Contents
